@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: User
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.71 s <<< FAILURE! - in User
+User.Get - As admin I have be able to get all user  Time elapsed: 0.71 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to resolve the class file version of the current VM: This JVM's version string does not seem to be valid: 20
+
