@@ -1,3 +1,3 @@
 # QE_Gieldy-Akhyat-Affandi-Utama
 
-Resume gieldy
+Reporsitory Alterra milik Gieldy Akhyat Affandi Utama
