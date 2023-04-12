@@ -1,4 +1,4 @@
-## Resume performence 
+## Resume Fundamental Performance Test
 (jarang dilakukan oleh QE, namun saat ini sudah mulai dihandle oleh QE)
 
 performence test adalah teknik pengujian non functionalitas. menguji ketahanannya, seperti stabilitasnya, penggunaan sumber dayanya (berapa banyak penggunanya)
@@ -23,3 +23,15 @@ performence test adalah teknik pengujian non functionalitas. menguji ketahananny
 - peak test/spike/soak tahapan untuk event-event
 - smoke test mirip load test dan tujuannya untuk memverifikasi script yg kita buat lalu dilanjutkan load test (pemanasan sebelum melakukan performence test)
 - Volume test menguji terhadap satu section tertentu saja, klo yg lainnya untuk keseluruhan
+
+
+## Resume Introduction JMeter and Tutoria Record with JMeter 
+
+Tools untuk performance test :
+- Apache JMeter
+- K6
+- locust
+- BlazeMeter
+- LoadNinja
+
+Apache JMeter adalah perangkat lunak open source yang dirancang untuk membuat uji perilaku fungsional dan mengukut kinerja situs web
